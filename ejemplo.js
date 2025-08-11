@@ -16,7 +16,7 @@ console.log("Hola");
 /*no-extra-semi: "error"*/
 const y = 1;
 /*eqeqeq: ["error", "always"]*/
-if (x == 5) {}
+if (x === 5) {}
 /*camelcase: ["warn", { "properties": "always" }]*/
   let nombre_usuario = "David";
 /*semi: ["error", "always"]*/
@@ -30,8 +30,4 @@ switch (x) {
     break;
 }
 /*comma-dangle: ["error", "only-multiline"]*/
-const arr = [
-  1, 
-  2, 
-  3,
-];
+const arr = [1,2,3];
