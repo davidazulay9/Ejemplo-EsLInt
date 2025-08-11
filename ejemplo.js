@@ -18,7 +18,7 @@ const y = 1;
 /*eqeqeq: ["error", "always"]*/
 if (x === 5) {}
 /*camelcase: ["warn", { "properties": "always" }]*/
-  let nombre_usuario = "David";
+let nombre_usuario = "David";
 /*semi: ["error", "always"]*/
 const z = 5;
 /*quotes: ["error", "single", { "avoidEscape": true }]*/
