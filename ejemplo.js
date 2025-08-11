@@ -1,3 +1,12 @@
+/**
+ * @file ejemplo.js
+ * @author David
+ * @description Este es un ejemplo de un archivo JavaScript
+ * @version 1.0.0
+ * @since 1.0.0
+ * @license MIT
+ * @copyright 2025 David
+ */
 /*no-unused-vars: "warn"*/
 const x = 5;
 /*no-undef: "error"*/
